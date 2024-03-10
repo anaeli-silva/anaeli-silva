@@ -1,7 +1,7 @@
 # 👋 | Hiii! Seja bem-vindo/a ao meu repositorio!!
 
 <div display="flex">
-  <p align="left">Olá! Me chamos Vinicius, muito prazer em conhece-lo(a) =)!</p>
+  <p align="left">Olá! Me chamos anaeli, muito prazer em conhece-lo(a) =)!</p>
 <!--   <img align="right" src="https://github.com/Skinzin/Skinzin/assets/71513905/39cad8f2-6be4-4559-a53a-e33108b0095d" alt="Server, notbook, search etc in illustration." width="45%" /> -->
 </div> 
 
@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=pink" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=green" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=pink" />
 </div>
 
 
