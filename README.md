@@ -1,7 +1,7 @@
 # 👋 | Hiii! Seja bem-vindo/a ao meu repositorio!!
 
 <div display="flex">
-  <p align="left">Olá! Me chamos Anaeli, muito prazer em conhece-lo(a) =)!</p>
+  <p align="left">Olá! Me chamo Anaeli, muito prazer em conhece-lo(a) =)!</p>
 </div> 
 
 
