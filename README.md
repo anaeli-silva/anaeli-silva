@@ -3,7 +3,7 @@
 <div display="flex">
   <p align="left">Olá! Me chamos Anaeli, muito prazer em conhece-lo(a) =)!</p>
 </div> 
-[![Typing SVG]https://readme-typing-svg.herokuapp.com/?color=DCD6F7&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+é+Anaeli+Ferreira.+Bem+vindo(a)!;)](https://git.io/typing-svg)
+
 
 <br>
   
