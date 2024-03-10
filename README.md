@@ -1,7 +1,7 @@
 # 👋 | Hiii! Seja bem-vindo/a ao meu repositorio!!
 
 <div display="flex">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCD6F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Anaeli+Ferreira.+Bem+vindo(a)!;)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/?color=DCD6F7&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Anaeli+Ferreira.+Bem+vindo(a)!;)](https://git.io/typing-svg)
 <!--   <img align="right" src="https://github.com/anaeli-silva/anaeli-silva/assets/71513905/39cad8f2-6be4-4559-a53a-e33108b0095d" alt="Server, notbook, search etc in illustration." width="45%" /> -->
 </div> 
 
