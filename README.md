@@ -32,15 +32,12 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=green" />
 </div>
 <!--![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=anaeli-silva&layout=compact&text_color=FFF&border_color=04D361&hide_border=true&border_radius=8&title_color=b7f2a7&locale=pt-BR&langs_count=8&hide=hack&theme=react)-->
 
-
-<br><br>
-<!--![Snake Game](https://github.com/Skinzin/Skinzin/blob/output/github-contribution-grid-snake-dark.svg)-->
+![Snake](https://github.com/anaeli-silva/anaeli-silva/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 <h4 align="center">
